@@ -19,3 +19,22 @@ html {
     margin: 1rem 0;
     font-size: 2.5rem;
   }
+
+  footer{
+    position: absolute;
+    margin-top: 5%;
+    width: 50vw;
+    height: 20vh;
+    background: navy;
+    color: antiquewhite;
+  }
+
+  .footer_text{
+    text-align: center;
+    font-size: 0.8rem;
+  }
+
+  .footer_text
+    a{
+        color: peru
+    }
